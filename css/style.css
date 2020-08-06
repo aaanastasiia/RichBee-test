@@ -59,6 +59,7 @@ body {
 }
 
 .header__menu-button {
+    font-family: 'Gilroy';
     border: 1.03958px solid #1943ef;
     box-sizing: border-box;
     border-radius: 33.9597px;
